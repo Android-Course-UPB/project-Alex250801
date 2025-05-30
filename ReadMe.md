@@ -64,6 +64,7 @@ Connect your device or start an emulator, then click Run ▶️ in Android Studi
 
 ------ 
 Vasile Mihai-Alexandru
+#### (https://ocw.cs.pub.ro/courses/android/proiect/2025/proiecte/footballapp)
 
 
 
