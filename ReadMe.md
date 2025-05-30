@@ -62,6 +62,9 @@ object Constants {
 Connect your device or start an emulator, then click Run ▶️ in Android Studio.
 
 
+------ 
+Vasile Mihai-Alexandru
+
 
 
 
